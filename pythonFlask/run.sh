@@ -1,0 +1,2 @@
+flask --app projectHello run
+
